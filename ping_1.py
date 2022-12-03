@@ -28,3 +28,6 @@ with open ("info_output.txt")as file:
 	
 with open ("info_output.txt","w") as file:
 	pass
+	
+	
+	##we no need to give ip address mention  we can directly give the ip address and 
